@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstAndroidApp</string>
+    <string name="hello_world">0</string>
+    <string name="switch_text">Switch</string>
+    <string name="count">Counter</string>
+    <string name="random">Random</string>
+    <string name="toast">Toast</string>
+    <string name="randomDescription">Here is a random number</string>
+    <string name="randomText">TextView</string>
+</resources>
